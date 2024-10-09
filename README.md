@@ -14,7 +14,7 @@
     </header>
     <nav>
         <ul>
-            <li><a href="onlineparadise.html">Home</a></li>
+            <li><a href="onlineparadise.html">Games</a></li>
             <li><a href="#about">About</a></li>
             <li><a href="#contact">Contact</a></li>
         </ul>
