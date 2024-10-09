@@ -9,7 +9,7 @@
 </head>
 <body>
     <header>
-        <img src="https://issunnne.github.io/.github.io/ISSUNELOGO.png" alt="Logo" width="2000" height="300">
+        <img src="https://issunnne.github.io/-/ISSUNELOGO.png" alt="Logo" width="2000" height="300">
         <h1>InformationalScientificSourceUnderstanding</h1>
     </header>
     <nav>
