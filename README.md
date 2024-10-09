@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Page Title</title>
+    <title><img src="ISSUNELOGO.png" alt="Logo" width="500" height="300"></title>
     <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file -->
 </head>
 <body>
     <header>
-        <h1>Welcome to My Website</h1>
+        <h1>InformationalScientificSourceUnderstanding</h1>
     </header>
     <nav>
         <ul>
