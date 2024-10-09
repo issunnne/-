@@ -14,7 +14,7 @@
     </header>
     <nav>
         <ul>
-            <li><a href="offlineparadise.html">Games</a></li>
+            <li><a href="offlineparadise.html">Test</a></li>
             <li><a href="#about">About</a></li>
             <li><a href="#contact">Contact</a></li>
         </ul>
