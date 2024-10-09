@@ -3,11 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><img src="ISSUNELOGO.png" alt="Logo" width="500" height="300"></title>
+    <title></title>
     <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file -->
 </head>
 <body>
     <header>
+        <img src="ISSUNELOGO.png" alt="Logo" width="500" height="300">
         <h1>InformationalScientificSourceUnderstanding</h1>
     </header>
     <nav>
